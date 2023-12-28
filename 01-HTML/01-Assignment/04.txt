@@ -1,0 +1,17 @@
+Tag:
+            A tag is a keyword or identifier enclosed in angle brackets (< and >) that specifies the beginning or end of an HTML element.
+            Tags are used to structure and define different parts of a webpage.
+
+            Example:
+                <p>: This is a start tag for a paragraph element.
+                </p>: This is an end tag for a paragraph element.
+        Element:
+            An element is a complete unit in HTML, consisting of a start tag, content, and an end tag. The content can include text, other elements, or both.
+            Elements form the basic building blocks of HTML documents, defining the structure and semantics of the content.
+
+            Example:
+            <p>This is a paragraph element.</p>
+
+            <p> is the start tag.
+            This is a paragraph element. is the content.
+            </p> is the end tag.
