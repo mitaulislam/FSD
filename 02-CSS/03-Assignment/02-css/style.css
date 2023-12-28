@@ -1,0 +1,36 @@
+
+        *{
+            box-sizing: border-box;
+        }
+        body{
+            background-color:black;
+            color: white;
+            padding: 1rem;
+            
+        }
+        .container{
+            border: 1px solid #ccc;
+            position: relative;
+            padding: 1rem;
+            margin-bottom: 1rem;
+        }
+        .container div{
+            height: 100px;
+            width: 100px;
+            background-color: rgba(141, 253, 160, 0.409);
+            border: 1px solid #ccc;
+            display: inline-block;
+            
+            font-weight: bold;
+        }
+        .box3r{
+            position: relative;
+            top: 40px;
+            left:40px
+        }
+        .box3a{
+            position: absolute;
+            top: 40px;
+            left:40px
+        }
+  
